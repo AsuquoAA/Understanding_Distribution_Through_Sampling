@@ -58,3 +58,10 @@ The animations reveal how increasing the sample size leads to the histograms bet
   - Exponential Distribution: High initial probability, tapering off gradually.
   - Uniform Distribution: Flat density curve across the range.
 Example of final output
+! [Example_image](https://github.com/Lazycodes/Understanding_Distribution_Through_Sampling/blob/main/Screenshot%202024-11-22%20at%2020.26.07.png)
+
+---
+
+## Acknowledgments
+1. The inspiration for this project comes from the Python Data Visualization course.
+2. Thanks to the creators of Matplotlib and NumPy for their robust libraries.
