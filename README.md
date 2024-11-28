@@ -44,7 +44,7 @@ For ffmpeg, install it via your package manager or from the official FFmpeg webs
 ## How to run this project
 
 1. Clone the Repository:
-- code: git clone https://github.com/Lazycodes/Understanding-Distribution-Sampling.git
+- code: git clone https://github.com/AsuquoAA/Understanding-Distribution-Sampling.git
  
 2. Navigating to directory
 - code: cd Understanding-Distribution-Sampling
@@ -59,7 +59,7 @@ The animations reveal how increasing the sample size leads to the histograms bet
   - Uniform Distribution: Flat density curve across the range.
 ---
 ### Example of final output
-![Example_image](https://github.com/Lazycodes/Understanding_Distribution_Through_Sampling/blob/main/Screenshot%202024-11-22%20at%2020.26.07.png)
+![Example_image](https://github.com/AsuquoAA/Understanding_Distribution_Through_Sampling/blob/main/Screenshot%202024-11-22%20at%2020.26.07.png)
 
 ---
 
